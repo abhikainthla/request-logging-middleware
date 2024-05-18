@@ -1,0 +1,4 @@
+id: ::1 method: GET url: /request-logging status: 200 content-length: 46 response-time: 7.529 ms
+id: ::1 method: GET url: /request-logging status: 200 content-length: 46 response-time: 1.042 ms
+id: ::1 method: GET url: /request-logging status: 200 content-length: 46 response-time: 0.869 ms
+id: ::1 method: GET url: /request-logging status: 200 content-length: 46 response-time: 0.684 ms
